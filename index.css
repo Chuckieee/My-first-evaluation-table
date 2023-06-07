@@ -1,0 +1,29 @@
+ body{
+    background-image: url(IMG_E0857.JPG) ;
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    height: 2000px;
+} 
+table, tr, td{
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+.eval{
+    font-size: xx-large;
+}
+#row {
+    width: 500px;
+}
+#col{
+    width: 500px;
+    
+}
+section{
+    text-align: center;
+}
+
+.btn{
+    margin-top: 30px;
+    
+}
